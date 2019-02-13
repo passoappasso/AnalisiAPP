@@ -1,0 +1,16 @@
+comparazione immagini
+link riferimenti wikipedia
+verificare se sia utilizzabile l'app da persone con disabilità
+percorso e mappe distinte per periodo storico
+percosi differenti per persone con disabilità
+itinerari differenti a seconda delle preferenze degli utenti
+tag punto di interesse e percorsi in base ai tag
+percorsi dinamici
+percorsi suggeriti
+trigger dei punti di interesse
+inpostazione lingua inizio
+attivazione sottotitoli in base a lingua
+.
+.
+.
+controllare se le informazioni sono cifrate

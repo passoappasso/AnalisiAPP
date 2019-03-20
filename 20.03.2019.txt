@@ -1,0 +1,7 @@
+Cosa abbiamo "Fatto" oggi:
+
+1) Abbiamo scelto di utilizzare open street map per l'inerfaccia Interfaccia semplice e lo stile, in alternativa google maps
+1.1) per creare le rote possiamo uilizzar il JSON
+1.2) Abbiamo analizzato la possibilità di aggiungere delle immagini come link in Open Street Map, è risultato che dobbiamo appogiarci ad un sito esterno (Drive) 
+2) Breve analisi sul gioco (instereg, scoreboard e problematiche "il costo") 
+3) Abbiamo deciso di salvare i dati in JSON per la facile comprensione del database, per la velocita di accesso e per la pesantezza inferiore all'xlm
